@@ -21,7 +21,10 @@
 
 ### (a) UK Petitions Topic Classification
 ### (b) Breast Cancer Data Classification using K-means Clustering and Spark
+<img src="images/bckmeans.png?raw=true"/><br /><br /><br /><br />
 ### (c) ECG Data Classification using ML and Spark
+<img src="images/actual.png?raw=true"/>
+<img src="images/kmeans.png?raw=true"/><br /><br /><br /><br />
 ### (d) QoE prediction for Youtube Streaming using Random Forest and Spark
 
 ---
@@ -39,15 +42,15 @@
 
 ### (b) UK Banking and Credit Industry Fraud Analysis
 <img src="images/Advancefeefraud.png?raw=true"/>
-<img src="images/consumerfraud.png?raw=true"/>
+<img src="images/consumerfraud.png?raw=true"/><br /><br /><br /><br />
 ### (c) UK Crime and Offence Analysis
 <img src="images/areavsoffences.png?raw=true"/>
 <img src="images/areavspoplrate.png?raw=true"/>
 <img src="images/df2areavsoffence.png?raw=true"/>
-<img src="images/df2areavspoplrate.png?raw=true"/>
+<img src="images/df2areavspoplrate.png?raw=true"/><br /><br /><br /><br />
 ### (d) Covid-19 Analytics
-### (e) JSON Tweets Analytics
-### (f) Association Rule Mining for Product Recommendation
+<img src="images/covid1.png?raw=true"/>
+<img src="images/covid2.png?raw=true"/>
 ### (g) Tokyo Subway Modelling using NetworkX
 <img src="images/nodes.png?raw=true"/>
 
