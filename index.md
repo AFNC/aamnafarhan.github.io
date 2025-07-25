@@ -4,15 +4,15 @@
 
 ### Deep Learning Projects 
 
-[Nutrition Tables Detection and Extraction from Product labels](/sample_page)
+- [Nutrition Tables Detection and Extraction from Product labels](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Land Marking Detection and Segmentation from Geospatial Images](/pdf/sample_presentation.pdf)
+- [Land Marking Detection and Segmentation from Geospatial Images](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Lifespan Prediction of Metal Parts](http://example.com/)
+- [Lifespan Prediction of Metal Parts](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
