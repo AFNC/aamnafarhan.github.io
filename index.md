@@ -27,6 +27,10 @@
 <img src="images/actual.PNG?raw=true"/>
 <img src="images/kmeans.PNG?raw=true"/><br /><br /><br /><br />
 ### (d) QoE prediction for Youtube Streaming using Random Forest and Spark
+<img src="images/DTprediction.png?raw=true"/>
+<img src="images/elbowmethod.png?raw=true"/>
+<img src="images/gridcvGB.png?raw=true"/>
+<img src="images/tuningNN.png?raw=true"/>
 
 ---
 
