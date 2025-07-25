@@ -8,7 +8,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   IBM AI Associate Data Scientist
   IBM Machine Learning Specialist - Professional
   IBM Machine Learning Specialist - Associate
-  <br>
+  <br><br>
   <a href="https://www.linkedin.com/in/aamna-farhan-5474ba1aa/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
