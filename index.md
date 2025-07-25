@@ -40,7 +40,6 @@
 <img src="images/heatmap_40stores.png?raw=true"/>
 <img src="images/boxplots_new.png?raw=true"/>
 <img src="images/radar_subplots_new.png?raw=true"/><br /><br /><br /><br />
-
 ### (b) UK Banking and Credit Industry Fraud Analysis
 <img src="images/Advancefeefraud.png?raw=true"/>
 <img src="images/consumerfraud.png?raw=true"/><br /><br /><br /><br />
@@ -51,7 +50,7 @@
 <img src="images/df2areavspoplrate.png?raw=true"/><br /><br /><br /><br />
 ### (d) Covid-19 Analytics
 <img src="images/covid1.PNG?raw=true"/>
-<img src="images/covid2.PNG?raw=true"/>
+<img src="images/covid2.PNG?raw=true"/><br /><br /><br /><br />
 ### (g) Tokyo Subway Modelling using NetworkX
 <img src="images/nodes.png?raw=true"/>
 
