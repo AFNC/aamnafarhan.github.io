@@ -29,14 +29,19 @@
 ### Data Analytics and Visualization Projects
 
 - [Company Store Sales Analysis](http://example.com/)
+<img src="images/volume_segmentation.png?raw=true"/>
+<img src="images/dailyCustomers_40 stores.png?raw=true"/>
+<img src="images/high_and_medium_volume.png?raw=true"/>
+<img src="images/low_volume_stores.png?raw=true"/>
+<img src="images/heatmap_40stores.png?raw=true"/>
+<img src="images/boxplots_new.png?raw=true"/>
+<img src="images/radar_subplots_new.png?raw=true"/>
 - [UK Banking and Credit Industry Fraud Analysis](http://example.com/)
 - [UK Crime and Offence Analysis](http://example.com/)
 - [Covid-19 Analytics](http://example.com/)
 - [JSON Tweets Analytics](http://example.com/)
 - [Association Rule Mining for Product Recommendation](http://example.com/)
 - [Tokyo Subway Modelling using NetworkX](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/nodes.png?raw=true"/>
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
