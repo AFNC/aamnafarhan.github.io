@@ -5,7 +5,7 @@
 ### Deep Learning Projects 
 
 - [Nutrition Tables Detection and Extraction from Product labels](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/val_batch2_pred.jpg?raw=true"/>
 
 ---
 - [Land Marking Detection and Segmentation from Geospatial Images](/pdf/sample_presentation.pdf)
