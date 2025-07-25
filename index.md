@@ -4,7 +4,7 @@
 
 ## Deep Learning Projects 
 
-### (a) Nutrition Tables Detection and Extraction from Product Labels
+### (a) Nutrition Table Detection and Extraction from Product Labels
 <img src="images/val_batch2_pred.jpg?raw=true"/>
 
 ---
