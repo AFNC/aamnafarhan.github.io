@@ -13,8 +13,6 @@
 
 ---
 ### (c) Lifespan Prediction of Metal Parts
-<img src="images/DTprediction.png?raw=true"/>
-<img src="images/elbowmethod.png?raw=true"/>
 <img src="images/gridcvGB.png?raw=true"/>
 <img src="images/tuningNN.png?raw=true"/>
 
@@ -31,7 +29,7 @@
 ### (b) Breast Cancer Data Classification using K-means Clustering and Spark
 <img src="images/bckmeans.png?raw=true"/>
 <img src="images/bckmeanss.png?raw=true"/><br /><br /><br /><br />
-### (c) ECG Data Classification using ML and Spark
+### (c) ECG Data Classification using K-means Clustering and Spark
 <img src="images/actual.PNG?raw=true"/>
 <img src="images/kmeans.PNG?raw=true"/><br /><br /><br /><br />
 ### (d) QoE prediction for Youtube Streaming using Random Forest and Spark
