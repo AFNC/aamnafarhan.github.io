@@ -9,7 +9,7 @@
 
 ---
 - [Land Marking Detection and Segmentation from Geospatial Images](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/forportfolio.png?raw=true"/>
 
 ---
 - [Lifespan Prediction of Metal Parts](http://example.com/)
