@@ -21,7 +21,8 @@
 
 ### (a) UK Petitions Topic Classification
 ### (b) Breast Cancer Data Classification using K-means Clustering and Spark
-<img src="images/bckmeans.png?raw=true"/><br /><br /><br /><br />
+<img src="images/bckmeans.png?raw=true"/>
+<img src="images/bckmeanss.png?raw=true"/><br /><br /><br /><br />
 ### (c) ECG Data Classification using ML and Spark
 <img src="images/actual.PNG?raw=true"/>
 <img src="images/kmeans.PNG?raw=true"/><br /><br /><br /><br />
