@@ -19,22 +19,23 @@
 
 ### Machine Learning Projects
 
-- [UK Petitions Topic Classification](http://example.com/)
-- [Breast Cancer Data Classification using K-means Clustering and Spark](http://example.com/)
-- [ECG Data Classification using ML and Spark](http://example.com/)
-- [QoE prediction for Youtube Streaming using Random Forest and Spark](http://example.com/)
+[UK Petitions Topic Classification](http://example.com/)
+[Breast Cancer Data Classification using K-means Clustering and Spark](http://example.com/)
+[ECG Data Classification using ML and Spark](http://example.com/)
+[QoE prediction for Youtube Streaming using Random Forest and Spark](http://example.com/)
 
 ---
 
 ### Data Analytics and Visualization Projects
 
-- [Company Store Sales Analysis](http://example.com/)
-- [UK Banking and Credit Industry Fraud Analysis](http://example.com/)
-- [UK Crime and Offence Analysis](http://example.com/)
-- [Covid-19 Analytics](http://example.com/)
-- [JSON Tweets Analytics](http://example.com/)
-- [Association Rule Mining for Product Recommendation](http://example.com/)
-- [Tokyo Subway Modelling using NetworkX](http://example.com/)
+[Company Store Sales Analysis](http://example.com/)
+[UK Banking and Credit Industry Fraud Analysis](http://example.com/)
+[UK Crime and Offence Analysis](http://example.com/)
+[Covid-19 Analytics](http://example.com/)
+[JSON Tweets Analytics](http://example.com/)
+[Association Rule Mining for Product Recommendation](http://example.com/)
+[Tokyo Subway Modelling using NetworkX](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
