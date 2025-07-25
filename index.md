@@ -37,7 +37,13 @@
 <img src="images/boxplots_new.png?raw=true"/>
 <img src="images/radar_subplots_new.png?raw=true"/>
 - [UK Banking and Credit Industry Fraud Analysis](http://example.com/)
+<img src="images/Advancefeefraud.png?raw=true"/>
+<img src="images/consumerfraud.png?raw=true"/>
 - [UK Crime and Offence Analysis](http://example.com/)
+<img src="images/areavsoffences.png?raw=true"/>
+<img src="images/areavspoplrate.png?raw=true"/>
+<img src="images/df2areavsoffence.png?raw=true"/>
+<img src="images/df2areavspoplrate.png?raw=true"/>
 - [Covid-19 Analytics](http://example.com/)
 - [JSON Tweets Analytics](http://example.com/)
 - [Association Rule Mining for Product Recommendation](http://example.com/)
