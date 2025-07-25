@@ -50,8 +50,8 @@
 <img src="images/df2areavsoffence.png?raw=true"/>
 <img src="images/df2areavspoplrate.png?raw=true"/><br /><br /><br /><br />
 ### (d) Covid-19 Analytics
-<img src="images/covid1.png?raw=true"/>
-<img src="images/covid2.png?raw=true"/>
+<img src="images/covid1.PNG?raw=true"/>
+<img src="images/covid2.PNG?raw=true"/>
 ### (g) Tokyo Subway Modelling using NetworkX
 <img src="images/nodes.png?raw=true"/>
 
