@@ -36,7 +36,7 @@
 <img src="images/heatmap_40stores.png?raw=true"/>
 <img src="images/boxplots_new.png?raw=true"/>
 <img src="images/radar_subplots_new.png?raw=true"/>
-<br />
+<br /><br />
 ### (b) UK Banking and Credit Industry Fraud Analysis
 <img src="images/Advancefeefraud.png?raw=true"/>
 <img src="images/consumerfraud.png?raw=true"/>
