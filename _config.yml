@@ -1,8 +1,14 @@
 title: Aamna Farhan # your name (or website title) here
 logo: "/images/af.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Data Scientist and a Software Developer with 3 years of industry experience at IBM and CareCloud with proven skills in Deep Learning, Machine Learning, Image Processing, Data Analytics, Visualisation and Python Development  
+  Data Scientist and a Software Developer with 3 years of industry experience at IBM and CareCloud with proven skills in Deep Learning, Machine Learning, Image Processing, Data Analytics, Visualization, APIs and Python Development  
   <br><br>
+  Certifications:
+  Microsoft Certified: Azure Fundamentals
+  IBM AI Associate Data Scientist
+  IBM Machine Learning Specialist - Professional
+  IBM Machine Learning Specialist - Associate
+  <br>
   <a href="https://www.linkedin.com/in/aamna-farhan-5474ba1aa/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
