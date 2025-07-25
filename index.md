@@ -32,7 +32,7 @@
 <img src="images/volume_segmentation.png?raw=true"/>
 <img src="images/dailyCustomers_40 stores.png?raw=true"/>
 <img src="images/high_and_medium_volume.png?raw=true"/>
-<img src="images/low_volume_stores.png?raw=true"/>
+<img src="images/low_volume_stores.PNG?raw=true"/>
 <img src="images/heatmap_40stores.png?raw=true"/>
 <img src="images/boxplots_new.png?raw=true"/>
 <img src="images/radar_subplots_new.png?raw=true"/>
