@@ -48,6 +48,9 @@
 <img src="images/areavspoplrate.png?raw=true"/>
 <img src="images/df2areavsoffence.png?raw=true"/>
 <img src="images/df2areavspoplrate.png?raw=true"/><br /><br /><br /><br />
+### (d) QoE of Youtube Streaming
+<img src="images/qoeheatmap.png?raw=true"/>
+<img src="images/qoeprcurve.png?raw=true"/><br /><br /><br /><br />
 ### (d) Covid-19 Analytics
 <img src="images/covid1.PNG?raw=true"/>
 <img src="images/covid2.PNG?raw=true"/><br /><br /><br /><br />
