@@ -21,10 +21,9 @@
 ## Machine Learning Projects
 
 ### (a) UK Petitions Topic Classification
-<img src="images/petition_topics.png?raw=true"/>
+<img src="images/imputing_category.png?raw=true"/>
 <img src="images/frequent_bigrams.png?raw=true"/>
 <img src="images/text_frequency.png?raw=true"/>
-<img src="images/class_report_SGD.png?raw=true"/>
 <img src="images/class_report_linearSVC.png?raw=true"/><br /><br /><br /><br />
 ### (b) Breast Cancer Data Classification using K-means Clustering and Spark
 <img src="images/bckmeans.png?raw=true"/>
@@ -43,10 +42,7 @@
 ### (a) Company Store Sales Analysis
 <img src="images/volume_segmentation.png?raw=true"/>
 <img src="images/dailyCustomers_40 stores.png?raw=true"/>
-<img src="images/low_volume_stores.PNG?raw=true"/>
-<img src="images/high_and_medium_volume.png?raw=true"/>
 <img src="images/heatmap_40stores.png?raw=true"/>
-<img src="images/boxplots_new.png?raw=true"/>
 <img src="images/radar_subplots_new.png?raw=true"/><br /><br /><br /><br />
 ### (b) UK Banking and Credit Industry Fraud Analysis
 <img src="images/Advancefeefraud.png?raw=true"/>
