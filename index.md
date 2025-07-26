@@ -47,17 +47,17 @@
 ### (b) UK Banking and Credit Industry Fraud Analysis
 <img src="images/Advancefeefraud.png?raw=true"/>
 <img src="images/consumerfraud.png?raw=true"/><br /><br /><br /><br />
-### (c) UK Crime and Offence Analysis
+### (c) UK Population and Offence Analysis
 <img src="images/areavsoffences.png?raw=true"/>
 <img src="images/areavspoplrate.png?raw=true"/>
 <img src="images/df2areavsoffence.png?raw=true"/>
 <img src="images/df2areavspoplrate.png?raw=true"/><br /><br /><br /><br />
-### Association Rule Mining for Product Recommendation
+### (d) Association Rule Mining for Product Recommendation
 <img src="images/marketbasket.PNG?raw=true"/><br /><br /><br /><br />
-### (d) Covid-19 Analytics
+### (e) Covid-19 Analytics
 <img src="images/covid1.PNG?raw=true"/>
 <img src="images/covid2.PNG?raw=true"/><br /><br /><br /><br />
-### (g) Tokyo Subway Modelling using NetworkX
+### (f) Tokyo Subway Modelling using NetworkX
 <img src="images/nodes.png?raw=true"/>
 
 ---
