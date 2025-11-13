@@ -37,7 +37,7 @@
 
 ---
 
-## Data Analytics and Visualization Projects
+## Data Analytics and Visualisation Projects
 
 ### (a) Company Store Sales Analysis
 <img src="images/volume_segmentation.png?raw=true"/>
